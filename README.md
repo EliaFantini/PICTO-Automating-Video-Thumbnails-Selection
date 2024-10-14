@@ -25,8 +25,7 @@ All the details about the academic research, the designing, implementation, test
 ## Trailer
 This video showcase trailer aims to show the functionality of the tool for the final user, explaining its functionalities up to the date of the realization of the trailer ( September 2024 ). Since GitHub doesn't let upload videos bigger than 10MB, the video had to be compressed and the quality is much lower than the original. 
 
-
-TODO: upload trailer
+https://github.com/user-attachments/assets/142bf640-bf9d-44d3-9a1a-e6385272c321
 
 ## Authors
 - [Elia Fantini](https://github.com/EliaFantini)
