@@ -12,7 +12,7 @@
   <img alt="GitHub star" src="https://img.shields.io/github/stars/EliaFantini/PICTO-Automating-Video-Thumbnails-Selection?style=social">
 </p>
 
-**Picto** is a software that **automatizes video thumbnails selection and
+**[Picto](https://arxiv.org/abs/2410.19825)** is a software that **automatizes video thumbnails selection and
 generation** with multimodal and multistage analysis. The approach includes a complex pipeline leveraging multiple AI models, and a user-friendly web app to exploit the output of such a pipeline. 
 
 This research was realized as Master Project and Master Thesis for the faculty of MSc Data Science at EPFL. The thesis has benefited from the comprehensive guidance of the company supervisor Dr. Gabriel Autès, providing industry-specific insights and oversight. Academic supervision was provided by Prof. Dr. Sabine Süsstrunk, who leads the Image and Visual Representation
@@ -20,7 +20,7 @@ Lab at the School of Computer and Communication Sciences (IC).
 
 This repository's aim is to showcase my thesis research process and outcomes, as well as its future progress as an internal tool for the company Play Suisse and SRG SSR. Therefore this repository will not contain the implementation's code, which will remain private.
 
-All the details about the academic research, the designing, implementation, testing, and evaluation of the proposed solution are contained in the [Thesis Report](https://github.com/EliaFantini/PICTO-Automating-Video-Thumbnails-Selection/blob/main/Elia_Fantini_Master_Thesis.pdf).
+All the details about the academic research, the designing, implementation, testing, and evaluation of the proposed solution are contained in the [Thesis Report](https://github.com/EliaFantini/PICTO-Automating-Video-Thumbnails-Selection/blob/main/Elia_Fantini_Master_Thesis.pdf), published also on [ArXiv](https://arxiv.org/abs/2410.19825).
 
 ## Trailer
 This video showcase trailer aims to show the functionality of the tool for the final user, explaining its functionalities up to the date of the realization of the trailer ( September 2024 ).
